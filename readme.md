@@ -14,4 +14,4 @@ Please choose the OS that you're using:
 
 - [Windows]
 - [Linux]
-+ [MacOS]
+- [MacOS]
