@@ -4,9 +4,9 @@ Are you using an Nvidia, AMD or Intel Graphics card?
 
 [Nvidia](https://github.com/RMED24/SwitchEmuGuide/blob/main/English/Selections/Windows/OnlineNo/Nvidia/Ryujinx.md) 
 
-[AMD]
+[AMD](https://github.com/RMED24/SwitchEmuGuide/blob/main/English/Selections/Windows/OnlineNo/IntelAMD/Yuzu.md) 
 
-[Intel]
+[Intel](https://github.com/RMED24/SwitchEmuGuide/blob/main/English/Selections/Windows/OnlineNo/IntelAMD/Yuzu.md) 
 
 
 * * *
