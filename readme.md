@@ -12,6 +12,6 @@ Now, for some questions
 
 Please choose the OS that you're using:
 
-- [Windows]
+- [Windows](https://pastebin.com/)
 - [Linux]
 - [MacOS]
