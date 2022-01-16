@@ -11,6 +11,6 @@ Now, for some questions
 
 Please choose the OS that you're using:
 
-- [Windows]
+- [Windows](https://github.com/RMED24/SwitchEmuGuide/blob/main/English/Selections/Windows/Online.md)
 - [Linux]
 - [MacOS]
