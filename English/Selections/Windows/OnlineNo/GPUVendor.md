@@ -2,7 +2,7 @@
 
 Are you using an Nvidia, AMD or Intel Graphics card?
 
-[Nvidia]
+[Nvidia](https://github.com/RMED24/SwitchEmuGuide/blob/main/English/Selections/Windows/OnlineNo/Nvidia/Ryujinx.md) 
 
 [AMD]
 
