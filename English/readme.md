@@ -5,6 +5,8 @@ Before you begin, we recommend you have a CPU newer than 2013. CPUs that are old
 
 * * *
 
+This will ask you through a multitude of questions to decide if you need yuzu or ryujinx. Then send you to a guide that can help you get set up.
+
 This guide is still being made. If you're willing to contribute, make sure it's organised like how I've written the folders. Any help is majorly appreciated, especially for new updates or even translating the guide into another language
 
 Now, for some questions
