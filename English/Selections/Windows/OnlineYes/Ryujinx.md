@@ -1,2 +1,2 @@
-### With the information provided, we recommend you use
-## Ryujinx LDN
+### With the information provided, we recommend you use:
+### Ryujinx LDN
