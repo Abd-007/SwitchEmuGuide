@@ -1,3 +1,6 @@
+# DO NOT USE THIS YET!!! IT'S UNFINISHED
+
+
 # Choose your language
 [English](https://github.com/RMED24/SwitchEmuGuide/tree/main/English)
 
