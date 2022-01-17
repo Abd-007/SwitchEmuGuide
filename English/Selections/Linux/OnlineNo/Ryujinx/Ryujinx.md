@@ -6,7 +6,7 @@ This guide will go through all the essential steps required to get Ryujinx emula
 
 ### Method 1 (Installer (Recommended)):
 
-If you want to have a portable install, click [this](#Method-2-Portable:)
+If you want to have a portable install, click [this](#Method-2-Portable)
 
 
 ### Method 2 (Portable):
