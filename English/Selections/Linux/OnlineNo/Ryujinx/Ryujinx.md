@@ -8,5 +8,13 @@ This guide will go through all the essential steps required to get Ryujinx emula
 
 #### If you want to have a portable install, click [this](#Method-2-Portable)
 
+*This method uses a bash script written by edisionnano. All credits for this method go to their team.*
+
+To start, you're going to need to open your terminal. Then paste this command and execute it in the terminal: ` bash -c "$(curl -s https://raw.githubusercontent.com/edisionnano/Pine-jinx/main/pinejinx.sh)"` 
+
+https://cdn.discordapp.com/attachments/932704471543345152/932704577906679969/unknown.png
+
+Once you see this option, press '1' on your keyboard and hit enter
+
 
 ### Method 2 (Portable):
