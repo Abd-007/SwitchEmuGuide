@@ -2,9 +2,9 @@
 
 Now, you're left with a choice. You can choose to use Ryujinx or Yuzu. You can read below to see the advantages and disadvantages of each. However, you know what you're really looking for, choose from these options:
 
-Yuzu
+[Yuzu]
 
-Ryujinx
+[Ryujinx](https://github.com/RMED24/SwitchEmuGuide/blob/main/English/Selections/Linux/OnlineNo/Ryujinx/Ryujinx.md)
 
 * * *
 
