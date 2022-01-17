@@ -14,5 +14,5 @@ Now, for some questions
 Please choose the OS that you're using:
 
 - [Windows](https://github.com/RMED24/SwitchEmuGuide/blob/main/English/Selections/Windows/Online.md)
-- [Linux]
+- [Linux](https://github.com/RMED24/SwitchEmuGuide/blob/main/English/Selections/Linux/Online.md)  
 - [MacOS](https://github.com/RMED24/SwitchEmuGuide/blob/main/English/Selections/MacOS/Ryujinx.md)
