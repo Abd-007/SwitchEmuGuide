@@ -12,3 +12,9 @@ Still unsure? Here's reasons to use Ryujinx over Yuzu:
 Here's reasons to use Yuzu over Ryujinx: 
 - Runs slightly better, especially on lower end hardware
 - Has multiple rendering APIs in the main build
+
+Both support:
+Playing commercial switch games (obviously)
+Resolution scaling
+A wide range of controllers
+LAN play for the dozen or so games that support it
