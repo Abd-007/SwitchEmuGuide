@@ -16,7 +16,7 @@ Once you see this option, press '1' on your keyboard and hit enter:
 ![Once you see this option, press '1' on your keyboard and hit enter](![image](https://user-images.githubusercontent.com/81475204/149823010-6c7c8ae9-12e4-4338-acab-d6baed89d21a.png)
 
 Then press 'y' when it asks for game mode (only select 'N' if you have a custom kernel)
-(![image](https://user-images.githubusercontent.com/81475204/149822991-dc5d532a-8951-4180-b150-d4083c0d01b5.png)
+![image](https://user-images.githubusercontent.com/81475204/149822991-dc5d532a-8951-4180-b150-d4083c0d01b5.png)
 
 When you are given this option, press the number for the graphics card vendor you're using (1 for Nvidia, 2 for AMD or Intel)
 (![image](https://user-images.githubusercontent.com/81475204/149823182-7a8bf9e6-fd5c-4754-8fa6-536c517382c4.png)
