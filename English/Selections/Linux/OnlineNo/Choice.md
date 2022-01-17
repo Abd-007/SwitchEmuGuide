@@ -1,6 +1,12 @@
 ### You've reached a point where you're free to choose which emulator you would like to use. AMD and Intel are fine on both emulators as they have MESA drivers, and Nvidia is also fine with either emulator.
 
-Now, you're left with a choice. You can choose to use Ryujinx or Yuzu. If you know what you're really looking for, then you can skip everything and go straight to the choice.
+Now, you're left with a choice. You can choose to use Ryujinx or Yuzu. You can read below to see the advantages and disadvantages of each. However, you know what you're really looking for, choose from these options:
+
+Yuzu
+
+Ryujinx
+
+* * *
 
 Still unsure? Here's reasons to use Ryujinx over Yuzu:
 - Better stability
