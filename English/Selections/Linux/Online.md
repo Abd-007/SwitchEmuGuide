@@ -1,4 +1,4 @@
-## Last selection: Windows
+## Last selection: Linux
 
 Do want to be able to play online with other people on emulators online?
 
