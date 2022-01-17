@@ -12,9 +12,9 @@ This guide will go through all the essential steps required to get Ryujinx emula
 
 To start, you're going to need to open your terminal. Then paste this command and execute it in the terminal: ` bash -c "$(curl -s https://raw.githubusercontent.com/edisionnano/Pine-jinx/main/pinejinx.sh)"` 
 
+Once you see this option, press '1' on your keyboard and hit enter:
 ![Once you see this option, press '1' on your keyboard and hit enter](https://cdn.discordapp.com/attachments/932704471543345152/932704577906679969/unknown.png)
 
-Once you see this option, press '1' on your keyboard and hit enter
 
 
 ### Method 2 (Portable):
