@@ -61,4 +61,9 @@ For everyone else, this is a method to make the process a lot easier:
 
 We recommend using [emusak](https://github.com/CapitaineJSparrow/emusak-ui) to download your keys and firmware. This is a free program that can automatically place your keys and download shader caches for games (which is something we'll come to in the optional guide). If you're on debian-based distros (such as mint or ubuntu), it's as easy as grabbing the `.deb` file and running it from here: https://github.com/CapitaineJSparrow/emusak-ui/releases/
 
-If you're on another distro, we recommend reading the install guide
+If you're on another distro, we recommend reading the install guide on emusak here: https://github.com/CapitaineJSparrow/emusak-ui#Installation
+
+Once you've successfully installed it the way listed for your distro, emusak should be installed to the start menu like this: ![image](https://user-images.githubusercontent.com/81475204/149989142-28e3bb8e-847b-4b9a-9a12-c0c5bb913a9b.png)
+
+Open it and you should be greated with something like this: ![image](https://user-images.githubusercontent.com/81475204/149989316-8bfc56b5-785e-4087-bfe5-1e06e0f12d4e.png)
+
