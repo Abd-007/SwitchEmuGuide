@@ -33,3 +33,21 @@ Now that the script as finished installing, you should have Ryujinx added to you
 * * *
 
 ### Method 2 (Portable):
+
+*This method is taken directly from the Ryujinx website*
+
+To start, you need to go to https://ryujinx.org/download and download the linux build on this page. You should have a tar.gz file downloaded. 
+
+You can extract it by opening a terminal in the folder where Ryujinx was downloaded to (or CDing over to the folder in question) and then paste `tar –xvzf ryujinx-versionNumber.tar.gz`. This will extract to the same folder the tar file is pasted in.
+
+Alternatively, if your distro supports it you can extract it using the archive manager GUI (Debian-based distros have these built in usually).
+
+Now, navigate to the publish folder that was extracted from Ryujinx and it should look something like this: ![image](https://user-images.githubusercontent.com/81475204/149984230-5164db58-d848-44e5-8a34-564ebee9979e.png)
+
+Since you've opted for an entirely portable install, you'll need to create a new folder titled 'portable' ![image](https://user-images.githubusercontent.com/81475204/149984709-724b8ab9-e9da-41e9-868d-a3f9a7f4d633.png)
+
+Now you've done that, open a terminal in the publish folder and paste in `./Ryujinx`
+
+On startup, you should be met with an error that looks like this. Don't press anything and now is a good time to check the logs in the terminal. In the launch mode box, it should say `portable` like this: ![image](https://user-images.githubusercontent.com/81475204/149985172-a42ccaa0-bb58-4945-9c0d-ea41e1470e80.png)
+
+(If it doesn't, close Ryujinx and try again. Make sure that 'portable' is all lower case)
