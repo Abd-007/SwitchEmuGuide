@@ -28,7 +28,7 @@ Then it'll ask to disable console window (Press 'Y' if you don't want to see deb
 Now that the script as finished installing, you should have Ryujinx added to your start menu
 ![image](https://user-images.githubusercontent.com/81475204/149824494-85204931-d660-44d1-abd7-daae644d32f4.png)
 
-*Method 1 install complete, click [This button] to go to the next step*
+*Method 1 install complete, click [This button](#Keys-and-firmware) to go to the next step*
 
 * * *
 
@@ -51,3 +51,6 @@ Now you've done that, open a terminal in the publish folder and paste in `./Ryuj
 On startup, you should be met with an error that looks like this. Don't press anything and now is a good time to check the logs in the terminal. In the launch mode box, it should say `portable` like this: ![image](https://user-images.githubusercontent.com/81475204/149985172-a42ccaa0-bb58-4945-9c0d-ea41e1470e80.png)
 
 (If it doesn't, close Ryujinx and try again. Make sure that 'portable' is all lower case)
+
+
+## Keys and firmware
