@@ -54,3 +54,11 @@ On startup, you should be met with an error that looks like this. Don't press an
 
 
 ## Keys and firmware
+
+### If you want to do all this manually with no extra tools, you must follow [this guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide#initial-setup---placement-of-prodkeys) and find the key files yourself. However, we recommend following the easier method down below. We 
+
+For everyone else, this is a method to make the process a lot easier:
+
+We recommend using [emusak](https://github.com/CapitaineJSparrow/emusak-ui) to download your keys and firmware. This is a free program that can automatically place your keys and download shader caches for games (which is something we'll come to in the optional guide). If you're on debian-based distros (such as mint or ubuntu), it's as easy as grabbing the `.deb` file and running it from here: https://github.com/CapitaineJSparrow/emusak-ui/releases/
+
+If you're on another distro, we recommend reading the install guide
