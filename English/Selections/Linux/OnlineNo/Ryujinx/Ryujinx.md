@@ -73,3 +73,6 @@ On the top right, there's a button to add a Ryujinx folder: [add image]
 
 If you installed Ryujinx using pinejinx, go to ### ADD FILE LOCATION LATER
 
+Once you've done all that, you should be given options to download firmware and keys:
+
+Download the keys first then download the firmware
