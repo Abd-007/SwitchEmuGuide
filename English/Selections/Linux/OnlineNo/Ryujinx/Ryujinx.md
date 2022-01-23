@@ -67,3 +67,9 @@ Once you've successfully installed it the way listed for your distro, emusak sho
 
 Open it and you should be greated with something like this: ![image](https://user-images.githubusercontent.com/81475204/149989316-8bfc56b5-785e-4087-bfe5-1e06e0f12d4e.png)
 
+On the top right, there's a button to add a Ryujinx folder: [add image]
+
+*If you followed the portable install guide, open the `publish` folder where you extracted Ryujinx before*
+
+If you installed Ryujinx using pinejinx, go to ### ADD FILE LOCATION LATER
+
